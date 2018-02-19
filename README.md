@@ -15,6 +15,8 @@ $ npm install
 ```
 
 * Create a lambda function on AWS
+* Upload a project to AWS lambda
+* Set environment variables
 * Create a dynamoDB instance with two tables there (for logging and for storing user data)
 * Create a s3 backet (here we will store our audios for users)
 * Create an AWS API GATEWAY
